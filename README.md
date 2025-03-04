@@ -26,7 +26,7 @@ This is the backend API for the HR Hiring & Onboarding Platform, built with Node
 ## Installation
 
 - Clone the repository:
-  - git clone [github repo](https://markdownlivepreview.com/).
+  - git clone [github repo](https://github.com/NimraAzmat/Backend-StellarStack.git).
 - Navigate to the project directory:
   - cd backend
 - Install dependencies:
